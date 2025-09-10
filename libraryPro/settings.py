@@ -117,7 +117,7 @@ USE_I18N = True
 USE_TZ = True
 
 CORS_ALLOWED_ORIGINS = [
-     "http://localhost:5173",
+     "https://lib-fro.vercel.app/","http://localhost:5173",
 ]
 
 # Static files (CSS, JavaScript, Images)
